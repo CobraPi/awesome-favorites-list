@@ -344,7 +344,11 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
 
 - [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。（ :warning: 停止维护）
 - [ScreenToGif](https://www.screentogif.com/) - 带有集成编辑器的屏幕、网络摄像头和素描板录制器，**免费软件**。`Windows`
-- [Kap](https://getkap.co/) - 屏幕录制工具，**开源软件**。`MacOS`
+- [Kap](https://getkap.co/) - 轻量的屏幕录制工具，**开源软件**。`MacOS`
+- 屏幕录制，自动缩放
+  - [Cap](https://cap.so/) - 免费产品。`MacOS` `Windows`
+  - [OpenScreen](https://getopenscreen.com/) - 开源软件。`MacOS` `Windows` `Linux`
+  - [Recordly](https://recordly.dev/) - 开源软件。`MacOS` `Windows` `Linux`
 - [LICEcap](https://www.cockos.com/licecap/) - 录屏并保存为 gif，**开源软件**。
 - [Snipaste](https://www.snipaste.com/) - 截图小工具，支持屏幕取色，**免费软件**。
 - [PicPick](https://picpick.app/zh/) - 全功能设计工具，支持截屏、录屏、白板、坐标测量、屏幕取色，**提供个人免费版本**。`Windows`
