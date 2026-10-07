@@ -227,6 +227,7 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
 - [Smallpdf](https://smallpdf.com/cn) - 15MB 文件上限限制。
 - [HiPDF](https://www.hipdf.cn/) - 10MB 文件上限限制。
 - [PDFCreator Online](https://tools.pdfforge.org/) - 250MB 文件上限限制。
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ 免费浏览器工具（PDF 编辑/转换、图片/音频转换、200+ 计算器），全部本地处理，无文件大小限制，无需上传。
 
 #### 电子书
 
